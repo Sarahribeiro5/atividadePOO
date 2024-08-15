@@ -1,7 +1,7 @@
 const restaurante = {
     nome: "Vó Carmela",
-    tipo de cozinha: "todo tipo de comida",
-    localização: "Valinhos-SP"
+    tipoDeCozinha: "Mistura",
+    localizacao: "Valinhos-SP"
 } ;
 
-console.log(restaurante);
+console.log(restaurante.nome);
